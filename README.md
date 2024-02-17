@@ -1,6 +1,7 @@
 # BreakupSimulator3DS
 Port of [Super Kawai Breakup Sim](https://haynster.itch.io/kawaii-deluxe) for the Nintendo 3DS.
-![Art for breakup sim portable, mad eby haynster](https://media.discordapp.net/attachments/715041159335903303/1208333795682689054/breakupsimportable.png?ex=65e2e78a&is=65d0728a&hm=b0a5add778bcd36a9f049e528db015d7b574020cf6be1ef92a9ee3edf1c8dfbd&=&format=webp&quality=lossless))
+![Art for breakup sim portable, mad eby haynster](https://media.discordapp.net/attachments/715041159335903303/1208333795682689054/breakupsimportable.png?ex=65e2e78a&is=65d0728a&hm=b0a5add778bcd36a9f049e528db015d7b574020cf6be1ef92a9ee3edf1c8dfbd&=&format=webp&quality=lossless)
+
 **[Breakup sim portable Itch.io page](https://dangerbites.itch.io/breakup-portable)**
 
 In this dating game you need to break up with Cat Grill as soon as possible!! Make decisions to get the emotion meter down before the timer gets to 0!  
